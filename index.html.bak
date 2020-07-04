@@ -26,8 +26,8 @@
 									<a href="index.html" class="logo"><strong>Last modified date</strong> 2020/7/4 </a>
 									<ul class="icons">
 										<li>分享到：</li>
-										<i href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://leesunbowen.github.io/" class="iconfont icon-QQkongjian"></i>
-										<i href="http://connect.qq.com/widget/shareqq/index.html?title=qqhaoyou&url=https://leesunbowen.github.io/" class="iconfont icon-QQ"></i>
+										<li><a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://leesunbowen.github.io/" class="iconfont icon-QQkongjian"><span class="label"></span></a></li>
+										<li><a href="http://connect.qq.com/widget/shareqq/index.html?title=qqhaoyou&url=https://leesunbowen.github.io/" class="iconfont icon-QQ"><span class="label"></span></a></li>
 									</ul>
 								</header>
 
